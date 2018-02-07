@@ -1,2 +1,3 @@
 # compensation-calculator
 JavaScript Compensation Calculator
+This application compares the total annual compensation of at least two salespersons. It can calculate the additional amount of sales that each salesperson must achieve to match or exceed the higher of the two earners. The application first asks for the name of each salesperson being compared and uses at least one class in addition to the application's controlling class. The source code also demonstrates the use of Array or ArrayList.
